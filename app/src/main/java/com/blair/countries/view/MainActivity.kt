@@ -1,7 +1,8 @@
-package com.blair.countries
+package com.blair.countries.view
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
+import com.blair.countries.R
 
 class MainActivity : AppCompatActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
